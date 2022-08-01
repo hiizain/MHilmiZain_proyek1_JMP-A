@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_utama"
+        android:title="Home" />
+    <item
+        android:id="@+id/m_nama"
+        android:title="Nama" />
+    <item
+        android:id="@+id/m_kalkulator"
+        android:title="Kalkulator" />
+    <item
+        android:id="@+id/m_negara"
+        android:title="Daftar Negara" />
+</menu>

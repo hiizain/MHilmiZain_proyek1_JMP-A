@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application Pertemuan5</string>
+    <string name="teks_kalkulator">MASUKKAN DUA ANGKA</string>
+    <string name="teks_angka1">Masukkan angka pertama</string>
+    <string name="teks_angka2">Masukkan angka kedua</string>
+    <string name="teks_tambah">+</string>
+    <string name="teks_kurang">-</string>
+    <string name="teks_bagi">/</string>
+    <string name="teks_kali">X</string>
+    <string name="teks_bersihkan">Bersihkan</string>
+    <string name="teks_input_nama">Masukkan Nama Anda</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="tampilkan">Tampilkan</string>
+    <string name="welcome">Muhammad Hilim Zain_JMP-A</string>
+
+    <string-array name="daftar_negara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Brunei Darussalam</item>
+        <item>Timor Leste</item>
+        <item>Tahiland</item>
+        <item>Kamboja</item>
+        <item>Vietnam</item>
+        <item>Myanmar</item>
+        <item>Filipina</item>
+        <item>Laos</item>
+    </string-array>
+</resources>
